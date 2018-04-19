@@ -1,5 +1,6 @@
 [
 null,
-null,
-{"id":2,"expanded":true,"name":"中央首都","order":1,"parentId":0,"scrollX":1177.3333333333333,"scrollY":3096}
+{"id":1,"expanded":true,"name":"旅館","order":2,"parentId":2,"scrollX":769.3333333333334,"scrollY":494.6666666666667},
+{"id":2,"expanded":true,"name":"中央首都","order":1,"parentId":0,"scrollX":1178,"scrollY":3096},
+{"id":3,"expanded":false,"name":"旅館2F","order":3,"parentId":1,"scrollX":832,"scrollY":640}
 ]
