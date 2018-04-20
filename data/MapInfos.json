@@ -1,11 +1,11 @@
 [
 null,
 {"id":1,"expanded":true,"name":"旅館","order":2,"parentId":2,"scrollX":644,"scrollY":484},
-{"id":2,"expanded":true,"name":"中央首都","order":1,"parentId":0,"scrollX":1176,"scrollY":3132.5},
+{"id":2,"expanded":true,"name":"中央首都","order":1,"parentId":0,"scrollX":1168,"scrollY":3124.5},
 {"id":3,"expanded":false,"name":"旅館2F","order":3,"parentId":1,"scrollX":727,"scrollY":549},
 {"id":4,"expanded":false,"name":"武器店","order":4,"parentId":2,"scrollX":569,"scrollY":405},
 {"id":5,"expanded":false,"name":"餐廳","order":5,"parentId":2,"scrollX":577,"scrollY":363},
 {"id":6,"expanded":true,"name":"酒吧","order":6,"parentId":2,"scrollX":727,"scrollY":449},
 {"id":7,"expanded":false,"name":"酒吧2F","order":7,"parentId":6,"scrollX":571,"scrollY":363},
-{"id":8,"expanded":false,"name":"登入畫面","order":8,"parentId":0,"scrollX":577,"scrollY":371}
+{"id":8,"expanded":false,"name":"登入畫面","order":8,"parentId":0,"scrollX":577,"scrollY":366.5}
 ]

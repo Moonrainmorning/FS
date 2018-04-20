@@ -8,5 +8,5 @@ null,
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"ponpon","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"愛葛妮絲","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"thrain","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"拉姆","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"","characterIndex":0,"characterName":"wood","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"德克","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"happy","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"席拉","nickname":"","note":"","profile":""}
 ]
