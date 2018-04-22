@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"旅館","order":2,"parentId":2,"scrollX":769.3333333333334,"scrollY":486.6666666666667},
-{"id":2,"expanded":true,"name":"中央首都","order":1,"parentId":0,"scrollX":1015.3333333333334,"scrollY":3074.6666666666665},
+{"id":2,"expanded":true,"name":"中央首都","order":1,"parentId":0,"scrollX":1015.3333333333334,"scrollY":3101.3333333333335},
 {"id":3,"expanded":false,"name":"旅館2F","order":3,"parentId":1,"scrollX":769.3333333333334,"scrollY":486.6666666666667},
 {"id":4,"expanded":false,"name":"武器店","order":4,"parentId":2,"scrollX":769.3333333333334,"scrollY":486.6666666666667},
 {"id":5,"expanded":false,"name":"餐廳","order":5,"parentId":2,"scrollX":769.3333333333334,"scrollY":486.6666666666667},
